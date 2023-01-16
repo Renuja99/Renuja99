@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Renuja99
 - 👀 I’m interested in web and mobile application development
-- 🌱 I’m currently a ReactJS, VueJS developer.  
+- 🌱 I’m currently a ReactJS, NestJS developer.  
 - 💞️ I’m looking to collaborate on projects. 
 - 📫 How to reach me ...
 
